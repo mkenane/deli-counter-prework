@@ -13,5 +13,5 @@ else
   linestring = linearray.join(" ")
   "The line is currently: #{linestring}"
   end 
-
+end 
 end 
