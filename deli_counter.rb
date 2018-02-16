@@ -1,3 +1,3 @@
 def line (array)
-  for 
+  array.each_with_index
   
