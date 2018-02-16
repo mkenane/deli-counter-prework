@@ -1,2 +1,3 @@
-def line 
+def line (array)
+  for 
   
